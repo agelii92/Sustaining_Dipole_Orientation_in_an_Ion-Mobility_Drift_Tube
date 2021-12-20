@@ -1,9 +1,0 @@
-[ molecule_type ]
-Argon	1
-
-[ atoms ]
-;   nr   type  resnr residue  atom   cgnr     charge       mass
-     1   opls_097      1    AR      AR      1       0    39.94800
-[ system ]
-; Name
-Argon
